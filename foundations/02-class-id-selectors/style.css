@@ -1,0 +1,22 @@
+.main {
+    background-color: pink;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+
+.main.cooler {
+    font-size: 40px;
+}
+
+#first {
+    color: blue;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#second {
+    background-color: lightgreen;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+}
